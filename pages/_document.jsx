@@ -5,8 +5,8 @@ class MyDocument extends Document {
         return (
             <Html lang="ko">
                 <Head>
-                    <meta name="title" content="깃 허브 레파지토리" />
-                    <meta name="description" content="깃허브 레파지토리 리스트입니다." />
+                    <meta name="title" content="깃 허브 레파지토리 smhan" />
+                    <meta name="description" content="깃허브 레파지토리 리스트입니다. smhan" />
                     <link
                         href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&dipslay=swap"
                         rel="stylesheet"
